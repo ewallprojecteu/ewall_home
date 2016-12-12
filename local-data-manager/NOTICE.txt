@@ -1,0 +1,26 @@
+Local data manager
+
+Copyright 
+
+Copyright 2013-2016 Ericsson Nikola Tesla d.d. (http://www.ericsson.hr/homepage)
+
+
+I. Included Software
+
+Software developed by Ericsson Nikola Tesla d.d. (http://www.ericsson.hr/homepage) for the eWALL project.
+
+
+II. Used Software
+
+This product uses software (commons configuration) developed at
+The Apache Software Foundation (http://www.apache.org/).
+Licensed under the Apache License 2.0.
+
+This product uses software developed at
+LightCouch.org  (http://www.lightcouch.org/).
+Licensed under the Apache License 2.0.
+
+
+III. License Summary
+- Apache License 2.0
+- GNU General Public License (GPL) 3.0

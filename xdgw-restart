@@ -1,0 +1,38 @@
+#!/bin/bash
+for pIDi in $(pgrep "xdgw") ; do
+    if [ "$$" -ne "$pIDi" ]; then
+    	sudo kill -9 $pIDi
+    fi	
+done
+
+sudo hciconfig all piscan
+sudo /etc/init.d/dgw-daemon restart
+sleep 10
+sudo /etc/init.d/dgw-clients-daemon restart
+sleep 5
+while true; do
+	MON=$(xrandr --query | grep " connected")
+	KIN=$(lsusb | grep "ID 045e:02d[8-9]")
+	if [ -z "$MON" ] || [ -z "$KIN" ]; then
+	   if ( pgrep "dgw_console" > /dev/null && pgrep "sensorsToDB" > /dev/null ); then
+		sleep 1
+	   else
+		sudo hciconfig all piscan
+		sudo /etc/init.d/dgw-daemon restart
+		sleep 10
+		sudo /etc/init.d/dgw-clients-daemon restart
+		sleep 5
+	   fi
+	else
+	   if ( pgrep "dgw_console" > /dev/null && pgrep "sensorsToDB" > /dev/null && pgrep "scrActKinect" > /dev/null ); then
+		sleep 1
+	   else
+		sudo hciconfig all piscan
+		sudo /etc/init.d/dgw-daemon restart
+		sleep 10
+		sudo /etc/init.d/dgw-clients-daemon restart
+		sleep 5
+	   fi
+	fi
+done
+exit 0

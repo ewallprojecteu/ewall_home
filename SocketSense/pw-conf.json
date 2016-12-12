@@ -1,0 +1,23 @@
+{
+	"static": [
+		{
+			"mac": "000D6F0004A1D42E",
+			"category": "Lamp",
+			"name": "Lamp",
+			"loginterval": "1",
+			"always_on": "False",
+			"production": "False",
+			"location": "Lab"
+		},
+		{
+			"mac": "000D6F0004529CC1",
+			"category": "PC",
+			"name": "PC",
+			"loginterval": "1",
+			"always_on": "False",
+			"production": "False",
+			"location": "Lab"
+		}
+	]
+}
+

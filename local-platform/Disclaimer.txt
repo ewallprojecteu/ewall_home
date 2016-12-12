@@ -1,0 +1,4 @@
+****************
+** Disclaimer **
+****************
+This prototype software is one of the results of the research project eWALL. While eWALL consortium partners make every effort to deliver high quality software, we do not guarantee that our software is free from defects or errors. Our software is provided “as is," and you use the software at your own risk. We make no warranties as to performance, merchantability, fitness for a particular purpose, or any other warranties whether expressed or implied. No oral or written communication from or information provided by any eWALL consortium partner shall create a warranty. Under no circumstances shall any eWALL consortium partner contributing to this software be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this software, even if eWALL consortium parters have been advised of the possibility of such damages.

@@ -1,0 +1,35 @@
+Remote Proxy
+
+Copyright 
+
+Copyright 2013-2016 Ericsson Nikola Tesla d.d. (http://www.ericsson.hr/homepage)
+
+
+I. Included Software
+
+Software developed by Ericsson Nikola Tesla d.d. (http://www.ericsson.hr/homepage) for the eWALL project.
+
+
+II. Used Software
+
+This product uses software (Apache Commons Configuration, Commons Daemon) developed at
+The Apache Software Foundation (http://www.apache.org/).
+Licensed under the Apache License 2.0.
+
+This product uses software (Spring Rabbit) developed at
+Pivotal Software, Inc. (Pivotal)  (https://pivotal.io/).
+Licensed under the Apache License 2.0.
+
+This product uses software developed at
+LightCouch.org  (http://www.lightcouch.org/).
+Licensed under the Apache License 2.0.
+
+This product uses software developed at
+The jersey community  (https://jersey.java.net/).
+Licensed under the Common Development and Distribution License (CDDL), GNU General Public License (GPL) 1.1.
+
+
+III. License Summary
+- Apache License 2.0
+- Common Development and Distribution License (CDDL), GNU General Public License (GPL) 1.1.
+- GNU General Public License (GPL) 3.0

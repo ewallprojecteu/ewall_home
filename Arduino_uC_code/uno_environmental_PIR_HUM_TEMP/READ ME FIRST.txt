@@ -1,0 +1,5 @@
+# This code is for the environmental modules that have the following sensors
+## Humidity
+## Temperature
+## PIR
+# This code is used fot RRD motes

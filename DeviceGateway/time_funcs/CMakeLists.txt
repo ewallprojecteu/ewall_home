@@ -1,0 +1,5 @@
+SET(TIME_OPS_SRCS
+time_funcs.c)
+
+ADD_LIBRARY(time_funcs STATIC ${TIME_OPS_SRCS})
+TARGET_LINK_LIBRARIES(time_funcs)

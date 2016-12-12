@@ -1,0 +1,19 @@
+Arduino sensing
+
+Copyright 
+
+Copyright 2013-2016 University Politehnica of Bucharest (http://www.upb.ro/en/)
+
+
+I. Included Software
+
+Software developed by University Politehnica of Bucharest (http://www.upb.ro/en/) for the eWALL project.
+
+
+II. Used Software
+
+None
+
+
+III. License Summary
+- GNU General Public License (GPL) 3.0

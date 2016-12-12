@@ -1,0 +1,1 @@
+All local platform components are being encapsulated and started by local-platform module. This is a “main” project used for starting and initializing all local platform components: local data manager, remote proxy and local reasoners (local platform = local data manager + remote proxy + local reasoners).

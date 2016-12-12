@@ -1,0 +1,21 @@
+#Minimum and Maximum Face sizes
+#The hash (#) in the first character is used for comments
+#If there are multiple non-commented lines, the latest values will be used
+#default values are 50 250
+#
+
+# For 1920x1080 Logitech, far distance targets
+# 50 250
+# For 1920x1080 Logitech, near distance targets
+# 150 500
+# For 1280x720 Logitech
+# 100 400
+# For 800x600 Ueye
+# 35 80
+# For 640x480 Webcam
+# 60 200
+
+# For 640x480 Kinect for XBox, medium distance targets
+# 30 150
+# For 1920x1080 Kinect for XBox One, medium distance targets
+90 450

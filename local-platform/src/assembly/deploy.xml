@@ -1,0 +1,36 @@
+<assembly>
+	<id>deploy</id>
+	<includeBaseDirectory>false</includeBaseDirectory>
+	<formats>
+		<format>zip</format>
+		<format>tar</format>
+	</formats>
+	<fileSets>
+		<fileSet>
+			<directory>${project.build.directory}</directory>
+			<outputDirectory>/</outputDirectory>
+			<includes>
+				<include>local-platform-all.jar</include>
+			</includes>
+		</fileSet>
+		<fileSet>
+			<directory>${project.basedir}</directory>
+			<outputDirectory>/</outputDirectory>
+			<includes>
+				<include>*.properties</include>
+				<include>Readme.txt</include>
+				<include>Disclaimer.txt</include>
+				<include>start-local-platform.bat</include>
+				<include>start-local-platform.sh</include>
+				<include>local-platform.conf</include>
+			</includes>
+		</fileSet>
+		<fileSet>
+			<directory>${project.basedir}/logs</directory>
+			<outputDirectory>/logs</outputDirectory>
+			<excludes>
+				<exclude>*</exclude>
+			</excludes>
+		</fileSet>
+	</fileSets>
+</assembly>

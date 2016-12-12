@@ -1,0 +1,19 @@
+Device gateway accelerometer clients
+
+Copyright 
+
+Copyright 2013-2016 the eWALL Consortium
+
+
+I. Included Software
+
+Software developed by Athens Information Technology (http://www.ait.edu.gr/), Ss. Cyril and Methodius University in Skopje (http://www.ukim.edu.mk/en_index.php) and Technical University of Sofia (http://www.tu-sofia.bg/) for the eWALL project.
+
+
+II. Used Software
+
+None
+
+
+III. License Summary
+- GNU General Public License (GPL) 3.0

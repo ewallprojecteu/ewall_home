@@ -1,0 +1,8 @@
+2015-07-28 13:34:27,327 ERROR [main] e.e.p.r.c.RemoteProxyConfigFile [RemoteProxyConfigFile.java:133] .\config.properties (The system cannot find the file specified)
+2015-07-28 13:34:27,343 ERROR [main] e.e.p.r.RemoteProxyImpl [RemoteProxyImpl.java:111] not all required configuration paramaters were set during initialization.
+2015-07-28 13:34:37,344 INFO [Thread-0] e.e.p.r.RemoteProxyImpl [RemoteProxyImpl.java:408] Remote proxy is stopped.
+2015-07-28 13:35:02,040 INFO [main] e.e.p.r.c.RemoteProxyConfigFile [RemoteProxyConfigFile.java:129] successfuly loaded configuration properties from file ./config.properties.
+2015-07-28 13:35:07,548 DEBUG [main] e.e.p.r.c.h.RPRestHttpClient [RPRestHttpClient.java:652] login() called.
+2015-07-28 13:35:08,984 ERROR [main] e.e.p.r.c.h.RPRestHttpClient [RPRestHttpClient.java:688] Cannot connect to server!
+2015-07-28 13:35:08,984 ERROR [main] e.e.p.r.RemoteProxyImpl [RemoteProxyImpl.java:199] Login failed. Shutting down...
+2015-07-28 13:35:18,985 INFO [Thread-0] e.e.p.r.RemoteProxyImpl [RemoteProxyImpl.java:408] Remote proxy is stopped.

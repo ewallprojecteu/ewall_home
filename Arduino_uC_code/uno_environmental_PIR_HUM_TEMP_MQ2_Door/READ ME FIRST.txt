@@ -1,0 +1,8 @@
+# This code is for the environmental modules that have the following sensors
+## Humidity
+## Temperature
+## PIR
+## MQ2 gas sensor
+## Door sensor
+
+# when you first run the sensors you should be in clean air for 1 min so that the MQ2 sensor will calibrate

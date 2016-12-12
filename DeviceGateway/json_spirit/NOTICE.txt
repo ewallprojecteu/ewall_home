@@ -1,0 +1,19 @@
+Json spirit library
+
+Copyright 
+
+Copyright 2007-2014 John W. Wilkinson
+
+
+I. Included Software
+
+Software developed by John W. Wilkinson (http://www.codeproject.com/Articles/20027/JSON-Spirit-A-C-JSON-Parser-Generator-Implemented)
+
+
+II. Used Software
+
+None
+
+
+III. License Summary
+- MIT License

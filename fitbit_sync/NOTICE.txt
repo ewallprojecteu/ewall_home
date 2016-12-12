@@ -1,0 +1,19 @@
+Fitbit Synchroniser
+
+Copyright 
+
+Copyright 2013-2016 Athens Information Technology (http://www.ait.gr)
+
+
+I. Included Software
+
+Software developed by Athens Information Technology (http://www.ait.gr) for the eWALL project.
+
+
+II. Used Software
+
+None
+
+
+III. License Summary
+- GNU General Public License (GPL) 3.0

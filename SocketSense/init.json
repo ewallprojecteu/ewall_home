@@ -1,0 +1,7 @@
+{
+	"configFile" : "/home/apne/Plugwise-2-py/config/pw-conf.json",
+	"dataLogDir" : "/home/apne/plugwise/datalog/",
+	"couchdburl" : "http://localhost:5984",
+	"dbName" : "plugwise"
+}
+	

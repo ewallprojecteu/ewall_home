@@ -1,0 +1,19 @@
+Fitbit Synchroniser
+
+Copyright 
+
+Copyright 2013-2016 the eWALL consortium
+
+
+I. Included Software
+
+Software developed for the eWALL project.
+
+
+II. Used Software
+
+hue-local-sdk and hue-sdk-resources by Philips Electronics N.V.
+
+
+III. License Summary
+- See Acknowledgements.txt

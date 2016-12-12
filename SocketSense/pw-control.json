@@ -1,0 +1,25 @@
+{
+	"dynamic": [
+		{
+			"mac": "000D6F0004A1D42E",
+			"switch_state": "on",
+			"name": "Lamp",
+			"schedule_state": "off",
+			"schedule": "",
+			"savelog": "yes",
+			"monitor": "yes"
+		},
+		{
+			"mac": "000D6F0004529CC1",
+			"switch_state": "on",
+			"name": "PC",
+			"schedule_state": "off",
+			"schedule": "",
+			"savelog": "yes",
+			"monitor": "yes"
+		}
+	], 
+	"log_level": "info", 
+	"log_comm": "no"
+}
+

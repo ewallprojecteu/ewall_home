@@ -1,0 +1,21 @@
+Visual Processing
+
+Copyright 
+
+Copyright 2013-2016 Athens Information Technology (http://www.ait.gr)
+Copyright 2013-2016 Technical University of Sofia (http://www.tu-sofia.bg/)
+
+
+I. Included Software
+
+Software developed by Athens Information Technology (http://www.ait.gr) and Technical University of Sofia (http://www.tu-sofia.bg/) for the eWALL project.
+
+
+II. Used Software
+
+This product uses software developed at
+OpenCV (http://opencv.org/)
+
+
+III. License Summary
+- GNU General Public License (GPL) 3.0

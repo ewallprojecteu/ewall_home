@@ -1,0 +1,14 @@
+{
+        "_id" : "2012-07-26T10:14:10.871Z",
+        "timestamp" : 1343297650871,
+        "data" : {
+                "camera" : {
+                        "@ID" : "my_webcam",
+                        "mean_intensity" : 134.0000
+                },
+                "visual_processing" : {
+                      "@ID" : "my_webcam_processing",
+                        "frame_difference" : 0.1900
+                }
+        }
+}

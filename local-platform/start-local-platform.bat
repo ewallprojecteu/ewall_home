@@ -1,0 +1,1 @@
+java -jar local-platform-all.jar

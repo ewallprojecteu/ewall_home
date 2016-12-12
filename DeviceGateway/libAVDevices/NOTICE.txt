@@ -1,0 +1,21 @@
+Library for AV devices interfacing to device gateway
+
+Copyright 
+
+Copyright 2013-2016 Ss. Cyril and Methodius University in Skopje (http://www.ukim.edu.mk/en_index.php)
+
+
+I. Included Software
+
+Software developed by Ss. Cyril and Methodius University in Skopje (http://www.ukim.edu.mk/en_index.php) for the eWALL project.
+
+
+II. Used Software
+
+OpenCV (http://opencv.org)
+libfreenect2 (https://github.com/OpenKinect/libfreenect2) 
+libfreenect (https://github.com/OpenKinect/libfreenect)
+
+
+III. License Summary
+- GNU General Public License (GPL) 3.0

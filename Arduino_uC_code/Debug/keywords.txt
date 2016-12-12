@@ -1,0 +1,8 @@
+# Datatypes/Classes (KEYWORD1)
+
+# Public methods (KEYWORD2)
+serialEvent KEYWORD2
+freeRam KEYWORD2
+
+# Constants (LITERAL1)
+LOOP_COUNT LITERAL1

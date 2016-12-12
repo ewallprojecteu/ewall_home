@@ -1,0 +1,8 @@
+SET(DGW_CLIENTCONSOLE_SRCS
+DGwClientConsole.cpp)
+
+INCLUDE_DIRECTORIES(${Boost_INCLUDE_DIR} ${CMAKE_SOURCE_DIR}/libDGwSockets ${CMAKE_SOURCE_DIR}/libDGwClient)
+
+ADD_EXECUTABLE(DGwClientConsole ${DGW_CLIENTCONSOLE_SRCS})
+TARGET_LINK_LIBRARIES(DGwClientConsole SensorDeviceExample AVDeviceExample DeviceGateway)
+

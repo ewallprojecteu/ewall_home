@@ -1,0 +1,19 @@
+Library for Continua Alliance Bluetooth sensors interfacing to device gateway
+
+Copyright 
+
+Copyright 2013-2016 Ss. Cyril and Methodius University in Skopje (http://www.ukim.edu.mk/en_index.php) and University Politehnica of Bucharest (http://www.upb.ro/en/)
+
+
+I. Included Software
+
+Software developed by Ss. Cyril and Methodius University in Skopje (http://www.ukim.edu.mk/en_index.php) and University Politehnica of Bucharest (http://www.upb.ro/en/) for the eWALL project.
+
+
+II. Used Software
+
+Antidote Signove (https://github.com/signove/antidote)
+
+
+III. License Summary
+- GNU General Public License (GPL) 3.0
